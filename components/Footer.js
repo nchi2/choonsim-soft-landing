@@ -6,7 +6,6 @@ const StyledFooter = styled.div`
     text-align: center;
     font-size: 2em;
     color: #333;
-    padding: 20px;
     background-color: darkgray;
 `;
 

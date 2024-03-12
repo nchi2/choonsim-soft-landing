@@ -7,7 +7,6 @@ const StyledPartners = styled.div`
     text-align: center;
     font-size: 2em;
     color: #333;
-    padding: 20px;
     background-color: pink;
 `;
 
