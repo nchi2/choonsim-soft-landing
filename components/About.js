@@ -8,7 +8,7 @@ const StyledAbout = styled.div`
     font-size: 2em;
     color: #333;
     padding: 20px;
-    background-color: lightgreen;
+    background-color: lightblue;
 `;
 
 export default function About() {

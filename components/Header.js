@@ -8,7 +8,7 @@ const StyledHeader = styled.div`
     align-items: center;
     flex-direction: row;
     color: #333;
-    background-color: lightblue;
+    background-color: orange;
 `;
 
 export default function Header({children}) {
